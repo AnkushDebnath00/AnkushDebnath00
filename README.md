@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushdebnath00" alt="ankushdebnath00" /></a> </p>
 
-- 🔭 I’m currently working on **my DSA Skills**
+- 🔭 I’m currently working on **some React Projects**
 
 - 🌱 I’m currently learning **React Native**
 
