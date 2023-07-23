@@ -1,5 +1,5 @@
 # 👋 Ankush Debnath
-**`Web Craftman`**
+**`Web Craftsman`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdebnath00&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdebnath00" /> </p>
 
 I am a software development enthusiast with a passion for ReactJS and web development. 
@@ -14,7 +14,7 @@ teamwork, and communication skills that can make me an asset in the corporate wo
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushdebnath00" alt="ankushdebnath00" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnkushDebnath00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **some React Projects**
 
