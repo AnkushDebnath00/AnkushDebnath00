@@ -1,7 +1,18 @@
 # 👋 Ankush Debnath
-<h3 align="center">A software development enthusiast with a passion for ReactJS and web development</h3>
-
+**`Web Craftman`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdebnath00&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdebnath00" /> </p>
+
+I am a software development enthusiast with a passion for ReactJS and web development. 
+I have a strong foundation in programming languages, web development tools and basic 
+data structures, algorithms. Additionally, I have started android development with React 
+Native. I have developed several projects using ReactJS, HTML, CSS, and JavaScript, 
+showcasing my skills and creativity. I have also done several courses from NPTEL, Udemy 
+and Coursera in the domain of Artificial Intelligence, Data Structures & Algorithms, Data 
+Science, Business, Management, Operations, Cloud and Development.
+I am looking for internships/jobs in the domain of software development. I have sufficient
+teamwork, and communication skills that can make me an asset in the corporate world.
+
+<hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushdebnath00" alt="ankushdebnath00" /></a> </p>
 
