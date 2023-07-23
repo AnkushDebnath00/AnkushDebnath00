@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankush Debnath</h1>
+# 👋 Ankush Debnath
 <h3 align="center">A software development enthusiast with a passion for ReactJS and web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdebnath00&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdebnath00" /> </p>
